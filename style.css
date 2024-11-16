@@ -119,6 +119,7 @@ object-fit: cover;
   z-index: 999;
   display: flex;
   gap: 20px;
+  top:75%;
 }
 
 .thumbnail .item {
